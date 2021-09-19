@@ -1,0 +1,11 @@
+{
+    "projects": [
+        {
+            "name": "魔女的夜宴",
+            "path": {
+                "saveData": "E:\\game\\X’moe 汉化 魔女的夜宴汉\\savedata",
+                "restore": "E:\\game\\X’moe 汉化 魔女的夜宴汉\\savedata"
+            }
+        }
+    ]
+}
